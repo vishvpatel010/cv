@@ -137,3 +137,7 @@ hr{
     font-size: 0.75rem;
     padding: 20px 0;
   }
+@media(max-width: 768px) {
+    .hill{
+        visibility: hidden;
+}
