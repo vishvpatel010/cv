@@ -139,5 +139,5 @@ hr{
   }
 @media(max-width: 768px) {
     .hill{
-        visibility: hidden;
+        display: none;}
 }
